@@ -68,7 +68,3 @@ Jupyter is an open-source web application that allows you to create and share do
 5. Verify that you receive the [expected-output.pdf](https://github.com/faa35/CMPT_354/blob/main/Module_1/expected-output.pdf)
 
 ---
-
-## Additional Notes
-- Ensure all dependencies are properly installed before starting your assignment.
-- Contact the project maintainer if you encounter any issues during setup.
