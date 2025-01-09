@@ -40,11 +40,13 @@ Jupyter is an open-source web application that allows you to create and share do
 ### Step 4: Initial Test
 1. Download the [test.ipynb](https://github.com/faa35/CMPT_354/blob/main/Module_1/test.ipynb) file.
 2. Open Jupyter Notebook, 
-3. Open Jupyter Notebook:
+3. after opening Jupyter Notebook:
    - Click on the Windows search bar and type "Jupyter Notebook."
    - Give it some time to load. It will open in your Adobe file (since that is the main file location).
    - Click on the local host link to open Jupyter Notebook in the default browser.
+   ![alt text](image.png)
    - Find the file you want to run. If the file is not in the folder where Jupyter Notebook is installed, do the following:
+   ![alt text](image-1.png)
      - Click on "New," open the terminal, and type:
        ```bash
        D:
@@ -54,7 +56,7 @@ Jupyter is an open-source web application that allows you to create and share do
        ```bash
        jupyter notebook
        ```
-       This will start Jupyter Notebook in the D: folder. Browse through the interface to find the file.
+     - This will start Jupyter Notebook in the D: folder. Browse through the interface to find the file. click on it then then choose `open`
 
 
 
