@@ -40,7 +40,7 @@ Jupyter is an open-source web application that allows you to create and share do
 ### Step 4: Initial Test
 1. Download the test.ipynb file.
 2. Open Jupyter Notebook, load `test.ipynb`, and run each cell in order by pressing `Shift + Enter`.
-3. Verify that you receive the expected-output.pdf
+3. Verify that you receive the [expected-output.pdf](https://github.com/faa35/CMPT_354/blob/main/Module_1/expected-output.pdf)
 
 ---
 
