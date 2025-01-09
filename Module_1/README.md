@@ -5,7 +5,7 @@
 **To-Do Date**: Jan 11 at 8:59 PM  
 **Acknowledgement**: Ouldooz Baghban Karimi
 
-This project uses SQLite as the database management system (DBMS). Unlike other database management systems (e.g., Oracle, DB2, and SQL Server), SQLite is not a client–server database engine. Instead, it is embedded directly into the end program, making it suitable for billions of applications.
+This project uses [SQLite](https://en.wikipedia.org/wiki/SQLite) as the database management system (DBMS). Unlike other database management systems (e.g., Oracle, DB2, and SQL Server), SQLite is not a client–server database engine. Instead, it is embedded directly into the end program, making it suitable for billions of applications.
 
 ---
 
@@ -14,7 +14,7 @@ This project uses SQLite as the database management system (DBMS). Unlike other 
 ### Step 1: Install Jupyter Notebook
 Jupyter is an open-source web application that allows you to create and share documents containing live code, equations, visualizations, and narrative text.
 
-- Install Jupyter Notebook using [Anaconda Python 3.12](https://www.anaconda.com/products/distribution). 
+- Install Jupyter Notebook using [Anaconda Python 3.12](https://www.anaconda.com/download/success). 
 - Do not choose Miniconda unless you need a minimal installation and are prepared to install Jupyter Notebook manually.
 
 ### Step 2: Install SQLite
@@ -27,10 +27,10 @@ Jupyter is an open-source web application that allows you to create and share do
   .exit
   ```
 
-- **Windows**: Follow the [SQLite installation guide for Windows](https://sqlite.org/download.html) and verify the installation.
+- **Windows**: Follow the [SQLite installation guide for Windows](https://www.sqlitetutorial.net/download-install-sqlite/) and verify the installation.
 
 ### Step 3: Install JupySQL
-[JupySQL](https://jupysql.readthedocs.io/) allows you to run SQL and plot large datasets in Jupyter using `%sql`, `%%sql`, and `%sqlplot` magics.
+[JupySQL](https://jupysql.ploomber.io/en/latest/quick-start.html) allows you to run SQL and plot large datasets in Jupyter using `%sql`, `%%sql`, and `%sqlplot` magics.
 
 - To install JupySQL, open Anaconda Prompt and type:
   ```bash
